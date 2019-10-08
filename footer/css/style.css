@@ -1,0 +1,22 @@
+/* ----------------------------------- */
+/* base
+/* ----------------------------------- */
+html {
+  font-size: 62.5%;
+}
+body {
+  font-size: 1.4rem;
+  line-height: 1.7;
+  color: #152A52;
+  font-family: sans-serif;
+}
+
+footer{
+  line-height: 80px;
+  text-align: center;
+  background-color: #3e70cb;
+  color: #fff;
+}
+/* ----------------------------------- */
+/* footer
+/* ----------------------------------- */

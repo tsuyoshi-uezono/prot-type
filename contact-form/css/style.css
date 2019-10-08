@@ -1,0 +1,66 @@
+/* ------------------------- */
+/*  base
+/* -------------------------- */
+html{
+  font-size: 62.5%
+}
+body{
+  font-size: 1.6rem;
+}
+
+/* ------------------------- */
+/*  contact
+/* -------------------------- */
+section{
+  background-color: #F7F8FC;
+  padding: 130px 0;
+  color: #152a52;
+}
+.section-title{
+  text-align: center;
+  font-size: 2.4rem;
+  margin-bottom: 40px;
+}
+
+.contact-form{
+  width: 700px;
+  margin: 0 auto;
+}
+
+.form-part{
+  display: flex;
+  flex-direction: column;
+}
+
+label{
+  margin-bottom: 10px;
+}
+
+#input-subject,
+textarea{
+  line-height: 2;
+  font-size: 1.6rem;
+}
+
+textarea{
+  resize: none;
+  height: 170px;
+}
+
+.form-send{
+  text-align: center;
+  margin-top: 40px;
+}
+
+.btn-send{
+  width: 240px;
+  padding: 10px 0;
+  border-radius: 28px;
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+  display: inline-block;
+  color: #fff;
+  background-color: #ffa201;
+  box-shadow: 0 0 6px #ffa201;
+}

@@ -1,0 +1,45 @@
+/* --------------------------- */
+/* BASE
+/* --------------------------- */
+
+html{
+  font-size: 62.5%;
+}
+
+body{
+  font-size: 1.4rem;
+}
+
+/* --------------------------- */
+/* header
+/* --------------------------- */
+
+header{
+  background-color: #2d5eb7;
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 60px;
+}
+
+h1{
+  font-size: 2.4rem;
+  font-weight: bold;
+}
+
+a{
+  text-decoration: none;
+  color: #fff;
+}
+
+ul{
+  display: flex;
+}
+
+li{
+  margin-right: 30px;
+}
+li:last-of-type{
+  margin-right: 0;
+}
